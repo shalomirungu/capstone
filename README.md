@@ -20,5 +20,7 @@ We performed the following machine learning models:
 * ** **
 * ** **
 * ** **
+## Evaluation
+We evaluated the precision, accuracy, recall, f1 scores for these models and also made a confusion matrix.
 
 
