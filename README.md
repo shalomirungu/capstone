@@ -7,3 +7,5 @@ Swahili serves as a vital language for communication, education, and cultural ex
 * To **Develop a Multi-Class Classification Model that utilizes machine learning techniques to categorize Swahili News.**
 * To **Enhance User Experience by improving the accessibility of Swahili news content by enabling automated categorization on online news platforms.**
 * To **Promote Swahili Language by contributing to the representation and preservation of Swahili in digital media by ensuring its inclusion and visibility in online products and services.**
+## Data
+The data used is from Zindi Africa and it has 5151 Swahili articles and 3 features.
