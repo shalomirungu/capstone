@@ -12,6 +12,6 @@ The data used is from Zindi Africa and it has 5151 Swahili articles and 3 featur
 ## Data Preparation
 During this process, we checked for null values, the shape of the database, and investigated the distribution of the Swahili news categories.
 ## Exploratory Data Analysis
-Here, we label-encoded the categories, corrected punctuations where necessary, tokenized our dataset, created subplots for our tokens
+Here, we label-encoded the categories, corrected punctuations where necessary, tokenized our dataset, and created subplots for our tokens.
 
 
