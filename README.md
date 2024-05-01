@@ -10,4 +10,4 @@ Swahili serves as a vital language for communication, education, and cultural ex
 ## Data
 The data used is from Zindi Africa and it has 5151 Swahili articles and 3 features.
 ## Data Preparation
-During this process, we checked for null values, investigated the distribution of the Swahili news categories, label-encoded the categories, and separated numerical and categorical variables.
+During this process, we checked for null values, investigated the distribution of the Swahili news categories, label-encoded the categories, and corrected punctuations where necessary.
