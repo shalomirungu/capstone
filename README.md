@@ -15,8 +15,8 @@ During this process, we checked for null values, the shape of the database, and 
 Here, we label-encoded the categories, corrected punctuations where necessary, tokenized our dataset, and created subplots for our tokens.
 ## Modelling
 We performed the following machine learning models:
-* **a baseline without balancing the categories**
-* ** **
+* **a baseline model without balancing the categories**
+* **random oversampling to balance the categories**
 * ** **
 * ** **
 * ** **
