@@ -27,7 +27,7 @@ We performed the following machine learning models:
 ## Evaluation
 We evaluated the precision, accuracy, recall, f1 scores for these models and also made a confusion matrix.
 ## Modelling Results
- **baseline model**:
+ **baseline model**: The baseline performance of the Multinomial Naive Bayes classifier, evaluated using cross-validation, yields an average accuracy of approximately 39.2%. This indicates that the classifier's predictive ability is slightly better than random chance. However, it's essential to consider the class balance within the dataset, as it significantly influences the interpretation of the results. The class distribution reveals that the majority class, 'Kitaifa', comprises approximately 39.2% of the training data, while the other classes, such as 'michezo' and 'Biashara', are less represented, with proportions of around 32.9% and 26.4%, respectively. 
 
 
 
