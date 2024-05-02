@@ -45,6 +45,8 @@ We used random oversampler which works by adding more instances on the minority 
 
 **CatBoostClassifier**: The CatBoostClassifier has an accuracy of 0.856366 and log loss of 0.414156.
 
+We decided to dig deeper into  the LGBMClassifier and CatBoostClassifier since they had the highest accuracies. 
+
 
 
 
