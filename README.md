@@ -31,9 +31,18 @@ We evaluated the precision, accuracy, recall, f1 scores and log loss for these m
 
 We used random oversampler which works by adding more instances on the minority classes, removed stopwords and also performed domain feature engineering. We did subplots to visualize the distribution of sentences by category. We iteratively ran seven models in order for us to examine which models performed the best in terms of accuracy and log loss.
 
-**MultinomialNB with balanced categories**: This model had an accuracy of 0.831522 and log loss of 0.463109. 
+**MultinomialNB with balanced categories**: This model has an accuracy of 0.831522 and log loss of 0.463109. 
 
-**Logistic Regression**: The logistic regression model had an accuracy of 0.868789 and a log loss of0.407681
+**Logistic Regression**: The logistic regression model has an accuracy of 0.868789 and a log loss of 0.407681
+
+**Decision Tree Classifier**: The Decision Tree Classifier has an accuracy of 0.743789 and log loss of	9.234787
+
+**RandomForestClassifier**: The RandomForest Classifier has an accuracy of 0.856366 and log loss of	0.585755
+
+**XGBClassifier**: The XGBClassifier has an accuracy of 0.860248	and log loss of 0.415569
+**LGBMClassifier**: The LGBMClassifier has an accuracy of
+**CatBoostClassifier**: The CatBoostClassifier has an accuracy of 
+
 
 
 
