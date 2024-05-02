@@ -15,11 +15,15 @@ During this process, we checked for null values, the shape of the database, and 
 Here, we label-encoded the categories, corrected punctuations where necessary, tokenized our dataset, and created subplots for our tokens.
 ## Modelling
 We performed the following machine learning models:
-* **a baseline model without balancing the categories**
-* **random oversampling to balance the categories**
-* ** **
-* ** **
-* ** **
+* **a baseline model(MultinomialNB) without balancing the categories**
+* **MultinomialNB with balanced categories**
+* **Logistic Regression**	
+*	**Decision Tree Classifier**	
+*	**RandomForestClassifier**	
+*	**XGBClassifier**	
+* **LGBMClassifier**	
+* **CatBoostClassifier**
+
 ## Evaluation
 We evaluated the precision, accuracy, recall, f1 scores for these models and also made a confusion matrix.
 ## Modelling Results
