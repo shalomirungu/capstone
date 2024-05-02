@@ -31,7 +31,9 @@ We evaluated the precision, accuracy, recall, f1 scores and log loss for these m
 
 We used random oversampler which works by adding more instances on the minority classes, removed stopwords and also performed domain feature engineering. We did subplots to visualize the distribution of sentences by category. We iteratively ran seven models in order for us to examine which models performed the best in terms of accuracy and log loss.
 
-**MultinomialNB with balanced categories**: 
+**MultinomialNB with balanced categories**: This model had an accuracy of 0.831522 and log loss of 0.463109. 
+
+**Logistic Regression**: The logistic regression model had an accuracy of 0.868789 and a log loss of0.407681
 
 
 
